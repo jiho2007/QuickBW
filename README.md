@@ -1,7 +1,7 @@
 # QuickBW
 A simple Minecraft mod that allows you use /bw command :: '/bw &lt;mode>'
 
-**Mode List:**
+**Mode List:**  
 ```
 1: bedwars_eight_one
 2: bedwars_eight_two
